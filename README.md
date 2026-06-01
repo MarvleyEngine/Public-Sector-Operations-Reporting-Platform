@@ -2,12 +2,6 @@
 This project delivers a centralized reporting and analytics platform for monitoring the operational performance of Public Sector pension administration activities.
 
 
-# Public Sector Operations Reporting Platform
-
-## Project Overview
-
-This project delivers a centralized reporting and analytics platform for monitoring the operational performance of Public Sector pension administration activities.
-
 The solution consolidates data from multiple business systems, APIs, SharePoint repositories, forms, and Excel files into a unified reporting model that serves as the department's single source of truth for operational reporting and decision-making.
 
 The platform automates data collection, transformation, validation, and reporting processes, enabling management and operational teams to monitor performance across key business functions through interactive Power BI dashboards.
